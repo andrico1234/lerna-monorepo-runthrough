@@ -1,6 +1,6 @@
 import React from 'react'
 import { shallow } from 'enzyme'
-import ShoppingItem from './ShoppingItem'
+import ShoppingItem from './shoppingItem'
 
 describe('Layout component', () => {
   const mockProps = {
