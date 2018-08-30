@@ -25,7 +25,8 @@
   "scripts": {
     "start": "serve public/",
     "build": "gatsby build",
-    "develop": "gatsby develop"
+    "develop": "gatsby develop",
+    "test": "jest test --config ../../jest-config.json"
   },
   "repository": {
     "type": "git",
